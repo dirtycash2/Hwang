@@ -1,0 +1,8 @@
+C:\Inetpub\wwwroot\System7\BCZ110.dll
+C:\Inetpub\wwwroot\System7\BCZ110.pdb
+E:\Project_interojo\Project7\BC\BCZ110\obj\Debug\System7.BCZ110.resources
+E:\Project_interojo\Project7\BC\BCZ110\obj\Debug\System7.Resources.resources
+E:\Project_interojo\Project7\BC\BCZ110\obj\Debug\BCZ110.vbproj.GenerateResource.Cache
+E:\Project_interojo\Project7\BC\BCZ110\obj\Debug\BCZ110.dll.licenses
+E:\Project_interojo\Project7\BC\BCZ110\obj\Debug\BCZ110.dll
+E:\Project_interojo\Project7\BC\BCZ110\obj\Debug\BCZ110.pdb

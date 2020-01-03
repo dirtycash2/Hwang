@@ -1,0 +1,14 @@
+C:\Inetpub\wwwroot\System7\BCV160_2.dll
+C:\Inetpub\wwwroot\System7\BCV160_2.pdb
+D:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\System7.BCV160_2.resources
+D:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\System7.Resources.resources
+D:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\BCV160_2.dll.licenses
+D:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\BCV160_2.dll
+D:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\BCV160_2.pdb
+D:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\BCV160_2.vbproj.GenerateResource.Cache
+E:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\System7.BCV160_2.resources
+E:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\System7.Resources.resources
+E:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\BCV160_2.vbproj.GenerateResource.Cache
+E:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\BCV160_2.dll.licenses
+E:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\BCV160_2.dll
+E:\Project_interojo\Project7\BC\BCV160_2\obj\Debug\BCV160_2.pdb

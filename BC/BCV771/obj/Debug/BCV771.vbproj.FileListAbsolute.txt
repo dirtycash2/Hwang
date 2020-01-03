@@ -1,0 +1,9 @@
+C:\Inetpub\wwwroot\System7\BCV771.dll
+C:\Inetpub\wwwroot\System7\BCV771.pdb
+E:\Project_interojo\Project7\BC\BCV771\obj\Debug\System7.BCV771.resources
+E:\Project_interojo\Project7\BC\BCV771\obj\Debug\System7.Resources.resources
+E:\Project_interojo\Project7\BC\BCV771\obj\Debug\BCV771.vbproj.GenerateResource.Cache
+E:\Project_interojo\Project7\BC\BCV771\obj\Debug\BCV771.dll.licenses
+E:\Project_interojo\Project7\BC\BCV771\obj\Debug\BCV771.dll
+E:\Project_interojo\Project7\BC\BCV771\obj\Debug\BCV771.pdb
+E:\Project_interojo\Project7\BC\BCV771\obj\Debug\BCV771.vbprojResolveAssemblyReference.cache

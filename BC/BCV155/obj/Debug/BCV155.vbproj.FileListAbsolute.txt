@@ -1,0 +1,8 @@
+E:\Project_interojo\Project7\BC\BCV155\obj\Debug\BCV155.vbproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\System7\BCV155.dll
+C:\Inetpub\wwwroot\System7\BCV155.pdb
+E:\Project_interojo\Project7\BC\BCV155\obj\Debug\System7.Resources.resources
+E:\Project_interojo\Project7\BC\BCV155\obj\Debug\System7.BCV155.resources
+E:\Project_interojo\Project7\BC\BCV155\obj\Debug\BCV155.dll
+E:\Project_interojo\Project7\BC\BCV155\obj\Debug\BCV155.pdb
+E:\Project_interojo\Project7\BC\BCV155\obj\Debug\BCV155.vbprojResolveAssemblyReference.cache

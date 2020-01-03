@@ -1,0 +1,8 @@
+C:\Inetpub\wwwroot\System7\BCV100_TEL.dll
+C:\Inetpub\wwwroot\System7\BCV100_TEL.pdb
+D:\Project_interojo\Project7\BC\BCV100_TEL\obj\Debug\System7.BCV100_TEL.resources
+D:\Project_interojo\Project7\BC\BCV100_TEL\obj\Debug\System7.Resources.resources
+D:\Project_interojo\Project7\BC\BCV100_TEL\obj\Debug\BCV100_TEL.dll.licenses
+D:\Project_interojo\Project7\BC\BCV100_TEL\obj\Debug\BCV100_TEL.dll
+D:\Project_interojo\Project7\BC\BCV100_TEL\obj\Debug\BCV100_TEL.pdb
+D:\Project_interojo\Project7\BC\BCV100_TEL\obj\Debug\BCV100_TEL.vbproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+C:\inetpub\wwwroot\System7\BCW100.dll
+E:\Project_interojo\Project7\BC\BCW100\obj\Debug\System7.BCW100.resources
+E:\Project_interojo\Project7\BC\BCW100\obj\Debug\System7.Resources.resources
+E:\Project_interojo\Project7\BC\BCW100\obj\Debug\BCW100.vbproj.GenerateResource.Cache
+E:\Project_interojo\Project7\BC\BCW100\obj\Debug\BCW100.dll
+E:\Project_interojo\Project7\BC\BCW100\obj\Debug\BCW100.pdb
+C:\inetpub\wwwroot\System7\BCW100.pdb

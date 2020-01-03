@@ -1,0 +1,14 @@
+D:\Project7_Inter\inter\BC\BCV710\obj\Debug\ResolveAssemblyReference.cache
+D:\Project7_Inter\inter\BC\BCV710\obj\Debug\System7.BCV710.resources
+D:\Project7_Inter\inter\BC\BCV710\obj\Debug\System7.Resources.resources
+D:\Project7_Inter\inter\BC\BCV710\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Project7_Inter\inter\BC\BCV710\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\inetpub\wwwroot\system7\BCV710.dll
+C:\inetpub\wwwroot\system7\BCV710.pdb
+D:\Project7_Inter\inter\BC\BCV710\obj\Debug\BCV710.dll
+D:\Project7_Inter\inter\BC\BCV710\obj\Debug\BCV710.pdb
+C:\emax\Interojo\Project7\BC\BCV710\obj\Debug\System7.BCV710.resources
+C:\emax\Interojo\Project7\BC\BCV710\obj\Debug\System7.Resources.resources
+C:\emax\Interojo\Project7\BC\BCV710\obj\Debug\BCV710.vbproj.GenerateResource.Cache
+C:\emax\Interojo\Project7\BC\BCV710\obj\Debug\BCV710.dll
+C:\emax\Interojo\Project7\BC\BCV710\obj\Debug\BCV710.pdb

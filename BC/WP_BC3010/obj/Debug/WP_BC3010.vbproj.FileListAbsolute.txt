@@ -1,0 +1,14 @@
+C:\Inetpub\wwwroot\System7\WP_BC3010.dll
+C:\Inetpub\wwwroot\System7\WP_BC3010.pdb
+D:\Project_interojo\Project7\WP_BC3010\obj\Debug\ResolveAssemblyReference.cache
+D:\Project_interojo\Project7\WP_BC3010\obj\Debug\System7.Resources.resources
+D:\Project_interojo\Project7\WP_BC3010\obj\Debug\System7.WP_BC3010.resources
+D:\Project_interojo\Project7\WP_BC3010\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Project_interojo\Project7\WP_BC3010\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Project_interojo\Project7\WP_BC3010\obj\Debug\WP_BC3010.dll
+D:\Project_interojo\Project7\WP_BC3010\obj\Debug\WP_BC3010.pdb
+D:\백업\Project_interojo\Project7\WP_BC3010\obj\Debug\ResolveAssemblyReference.cache
+D:\백업\Project_interojo\Project7\WP_BC3010\obj\Debug\System7.Resources.resources
+D:\백업\Project_interojo\Project7\WP_BC3010\obj\Debug\System7.WP_BC3010.resources
+D:\백업\Project_interojo\Project7\WP_BC3010\obj\Debug\WP_BC3010.dll
+D:\백업\Project_interojo\Project7\WP_BC3010\obj\Debug\WP_BC3010.pdb
